@@ -12,4 +12,3 @@ SQL
 Network Traffic Analysis
 Network scanning with Nmap
 
-
